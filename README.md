@@ -1,1 +1,1 @@
-# mern-
+# MERN-MINI-PROJECT
